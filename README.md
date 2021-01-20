@@ -11,7 +11,7 @@ TimeLock 时间锁是一款可以让您时刻保持专注的软件，您可以�
 
 ## 下载和安装
 
-- [ 最新版下载地址](https://github.com/Jinghao-Liu/TimeLock/releases/download/1.1.1/TimeLocksetup1.1.1.exe)
+- [ 最新版下载地址](https://github.com/Jinghao-Liu/TimeLock/releases/download/1.1.2/TimeLocksetup1.1.2.exe)
 - [ 备用地址（密码:8rlg）](https://wws.lanzous.com/b01zuv93a)
 - [ 历史版本地址](https://github.com/Jinghao-Liu/TimeLock/releases/)
 
