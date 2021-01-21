@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/Jinghao-Liu/TimeLock"><img width="200" src="https://github.com/Jinghao-Liu/TimeLock/blob/main/images/lock.png" alt="lx-music logo"></a></p>
+<p align="center"><a href="https://github.com/Jinghao-Liu/TimeLock"><img width="200" src="https://github.com/Jinghao-Liu/TimeLock/blob/main/images/lock.png" alt="TimeLock logo"></a></p>
 
 <p align="center">
   <a href="https://github.com/Jinghao-Liu/TimeLock/releases/"><img src="https://img.shields.io/github/release/Jinghao-Liu/TimeLock" alt="Release version"></a>
